@@ -1,4 +1,4 @@
-# orbital-wonder-odyssey
+# orbital wonder odyssey
 
 "orbital wonder odyssey" is a solar system project built using HTML, CSS, and JavaScript. The project presents an engaging visual representation of the solar system, where users can interact with planets by hovering over their orbits or clicking on them to access detailed information.
 
